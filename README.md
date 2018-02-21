@@ -1,29 +1,24 @@
-# This is a large heading
+# mahesh meshram
 
-## This is a smaller heading
+### geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Mumbai, in the state of Maharashtra, in the India
 
-- This is
-- an unordered
-- list
+###Reading
 
-1. This is
-2. an ordered
-3. list
+Two of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *c in depth* by r dennis 
+- *linux* by k sean
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
 
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/mahesh meshram).
