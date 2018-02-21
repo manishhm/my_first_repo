@@ -21,7 +21,7 @@ a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://www.google.co.in/).
 
-![This is an image.](Home/Pictures/pexels-photo-346735.jpeg)
+![This is an image.](https://www.google.co.in/search?q=image&client=ubuntu&hs=Z85&channel=fs&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj59L_dsrbZAhVDbbwKHX4ECn0Q_AUICigB&biw=1313&bih=639#imgrc=iTNX6jFFZGmK9M:)
 
